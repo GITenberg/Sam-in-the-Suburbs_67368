@@ -1,5 +1,8 @@
 _repo: Sam-in-the-Suburbs_67368
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67368-h/images/cover.jpg
 creator:
   author:
     agent_name: Wodehouse, P. G. (Pelham Grenville)
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/783
     wikipedia: https://en.wikipedia.org/wiki/P._G._Wodehouse
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67368#Sam-in-the-Suburbs
 gutenberg_issued: '2022-02-10'
 identifiers:
   gutenberg: '67368'
